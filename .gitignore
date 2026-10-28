@@ -11,5 +11,6 @@ HANDOFF.md
 PLAN.md
 TERRARIA_BOT_PLAN.md
 *.png
+!docs/*.png
 *.npz
 config.local.toml

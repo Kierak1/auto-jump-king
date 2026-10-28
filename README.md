@@ -5,6 +5,8 @@ plans jumps against the game's real collision map, and lets a
 [TypeSafe System One model](https://typesafe.ai) (Jev) pick the next platform to climb.
 Precise synthetic keyboard input executes the decision.
 
+![Auto Jump King overlay](docs/screenshot.png)
+
 ```
 capture -> vision + memory -> level atlas collision -> platform extraction
         -> jump simulation (candidates) -> Jev Choice -> precise execution
