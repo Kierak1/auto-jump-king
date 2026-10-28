@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+runs/
+Content/Saves/
+.ruff_cache/
+crashlog.log
+AGENT.md
+HANDOFF.md
+PLAN.md
+TERRARIA_BOT_PLAN.md
+*.png
+*.npz
+config.local.toml
